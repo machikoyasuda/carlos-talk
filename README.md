@@ -5,7 +5,7 @@ Preso for DevOpsDay LA 2013 at SCaLE.
 
 uses the very nice [reveal.js](https://github.com/hakimel/reveal.js)
 
-## Update: Friday, February 2017
+## Update: Friday, February 17, 2017
 
 Re-deployed for posterity.
 
